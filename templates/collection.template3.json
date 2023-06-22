@@ -1,0 +1,18 @@
+{
+    "sections": {
+      "product-grid": {
+        "type": "collection-template-3",
+        "settings": {
+          "collection_width": "container",
+          "collection_perpage": 24,
+          "collection_perrow": "3",
+          "sidebar_col": "col-md-3",
+          "enable_title": true,
+          "enable_description": true
+        }
+      }
+    },
+    "order": [
+      "product-grid"
+    ]
+  }

@@ -1,0 +1,129 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "page-about-v3": {
+      "type": "page-about-v3",
+      "blocks": {
+        "1587749168904": {
+          "type": "html",
+          "settings": {
+            "code": "<div class=\" pr-md-5\">\n<div class=\"subtop mb-3\">Easy and simple<\/div>\n<h2 class=\"mb-3\">Take a Look \nat Our Profile<\/h2>\n<div class=\"mb-5\">Apparently we had reached a great height in the atmosphere, for the sky was \na dead black and there a stars.<\/div>\n<a href=\"#\" class=\"btn btn-theme\">Get a Quote<\/a>\n<\/div>",
+            "width": "50%",
+            "align": "auto"
+          }
+        },
+        "1587749209476": {
+          "type": "html",
+          "settings": {
+            "code": "<img class=\"mb-5 lybn-lazyload lazyload\" alt=\"HTML builder image\" data-src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0525\/4719\/0979\/files\/m1.jpg?v=1609774864\">",
+            "width": "50%",
+            "align": "auto"
+          }
+        },
+        "1598196863023": {
+          "type": "html",
+          "settings": {
+            "code": "<div class=\"text-center\"><img class=\"my-5 lybn-lazyload lazyload\" alt=\"HTML builder image\" data-src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0525\/4719\/0979\/files\/lg_120x.png?v=1609784407\"><\/div>",
+            "width": "100%",
+            "align": "auto"
+          }
+        }
+      },
+      "block_order": [
+        "1587749168904",
+        "1587749209476",
+        "1598196863023"
+      ],
+      "settings": {
+        "enablesection": true,
+        "animation": "fade-up",
+        "paddingsection": "80px 0px 80px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "bgsection": "#fefefe",
+        "title": "",
+        "des": "",
+        "setwidth": "container"
+      }
+    },
+    "page-image-v3": {
+      "type": "page-image-v3",
+      "settings": {
+        "enablesection": true,
+        "animation": "fade-up",
+        "paddingsection": "0px 0px 0px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "bgsection": "#fefefe",
+        "setwidth": "full",
+        "image": "shopify:\/\/shop_images\/image_61.jpg"
+      }
+    },
+    "service-v3": {
+      "type": "service-v3",
+      "blocks": {
+        "1587751215011": {
+          "type": "address",
+          "settings": {
+            "store_addess": "<div class=\"mb-4\">\n<h2 class=\" mb-3\">01<\/h2>\n<span class=\"text-body font-weight-bold\">STORE NEWYORK<\/span>\n<\/div>",
+            "contact_addess": "123 Sky Tower, West 21th Street, Suite 721, NY",
+            "contact_phone": "+844 123 456 789",
+            "contact_mail": "sale@yourcompany.com"
+          }
+        },
+        "1587751341165": {
+          "type": "address",
+          "settings": {
+            "store_addess": "<div class=\"mb-4\">\n<h2 class=\"mb-3\">02<\/h2>\n<span class=\"text-body font-weight-bold\">STORE NEWYORK<\/span>\n<\/div>",
+            "contact_addess": "123 Sky Tower, West 21th Street, Suite 721, NY",
+            "contact_phone": "+844 123 456 789",
+            "contact_mail": "sale@yourcompany.com"
+          }
+        },
+        "1587751398826": {
+          "type": "address",
+          "settings": {
+            "store_addess": "<div class=\"mb-4\">\n<h2 class=\"mb-3\">03<\/h2>\n<span class=\"text-body font-weight-bold\">STORE NEWYORK<\/span>\n<\/div>",
+            "contact_addess": "123 Sky Tower, West 21th Street, Suite 721, NY",
+            "contact_phone": "+844 123 456 789",
+            "contact_mail": "sale@yourcompany.com"
+          }
+        }
+      },
+      "block_order": [
+        "1587751215011",
+        "1587751341165",
+        "1587751398826"
+      ],
+      "settings": {
+        "enablesection": true,
+        "animation": "fade-up",
+        "paddingsection": "80px 0px 90px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "bgsection": "#fefefe",
+        "setwidth": "container"
+      }
+    },
+    "html-v3": {
+      "type": "html-v3",
+      "settings": {
+        "enablesection": true,
+        "animation": "fade-up",
+        "paddingsection": "130px 0px 130px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "bgsection": "#f4f1eb",
+        "setwidth": "container",
+        "code": "<div class=\"text-center\">\n<img class=\"mb-5 lybn-lazyload lazyload\" alt=\"HTML builder image\" data-src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0525\/4719\/0979\/files\/lg_120x.png?v=1609784407\">\n<h3 class=\"mb-5\">Don’t miss a thing,<br>\nsubscribe to our quarterly newsletter<\/h3>\n<a href=\"#\" class=\"btn btn-theme\">Join our Mailing List<\/a>\n<\/div>"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "page-about-v3",
+    "page-image-v3",
+    "service-v3",
+    "html-v3"
+  ]
+}
